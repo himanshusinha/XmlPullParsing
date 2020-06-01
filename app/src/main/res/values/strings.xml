@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XmlPullParserEx</string>
+    <string name="text_title_id">Id</string>
+    <string name="text_title_name">Name</string>
+    <string name="text_title_salary">Salary</string>
+</resources>
