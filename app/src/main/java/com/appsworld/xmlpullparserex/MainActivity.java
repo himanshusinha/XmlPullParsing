@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private CustomAdapter customAdapter;
     private LinearLayoutManager linearLayoutManager;
     private Employee employee;
-
+    //
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
